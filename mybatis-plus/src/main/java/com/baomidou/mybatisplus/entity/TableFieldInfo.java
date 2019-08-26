@@ -21,9 +21,9 @@ import com.baomidou.mybatisplus.toolkit.SqlReservedWords;
 import com.baomidou.mybatisplus.toolkit.StringUtils;
 
 /**
- * <p>
+ * 
  * 数据库表字段反射信息
- * </p>
+ * 
  *
  * @author hubin sjy
  * @Date 2016-09-09

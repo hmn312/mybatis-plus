@@ -20,9 +20,9 @@ import java.util.List;
 import com.baomidou.mybatisplus.enums.IdType;
 
 /**
- * <p>
+ * 
  * 数据库表反射信息
- * </p>
+ * 
  * 
  * @author hubin
  * @Date 2016-01-23
